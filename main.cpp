@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
     int size;
-
+a
     cout << "Ingrese la cantidad de numeros: ";
     cin >> size;
 
